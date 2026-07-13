@@ -180,8 +180,8 @@ h4 {
 }
 .project-image-container img {
   display: block;
-  max-height: 82%;
-  max-width: 82%;
+  max-height: 92%;
+  max-width: 92%;
   object-fit: contain;
   transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
